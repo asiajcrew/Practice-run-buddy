@@ -120,4 +120,23 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-  }
+}
+
+.what-we-do {
+    text-align: center;
+}
+
+.what-we-do h2 {
+    border-bottom: #fce138 solid 2px;
+}
+
+.what-you-do {
+    background-color: #fce138;
+    text-align: center;
+}
+.what-you-do h2 {
+    border-bottom: #39a6b2 solid 2px;
+}
+.what-you-do h3 {
+    color: #024e76
+}
