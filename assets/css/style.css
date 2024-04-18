@@ -179,3 +179,22 @@ section {
 span {
     font-size: 38px;
 }
+
+.trainers {
+    text-align: center;
+}
+
+.trainers img {
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+.trainer {
+    overflow: auto;
+}
