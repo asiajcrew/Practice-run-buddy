@@ -60,12 +60,6 @@ section {
     flex-wrap: wrap;
 }
 
-.hero-cta h2 {
-    font-style: italic;
-    font-size: 55px;
-    color: #fce138;
-}
-
 .hero-cta {
     width: 35%;
     text-align: right;
@@ -73,6 +67,12 @@ section {
     color: #fff;
     font-size: 18px;
     line-height: 1.3;
+}
+
+.hero-cta h2 {
+    font-style: italic;
+    font-size: 55px;
+    color: #fce138;
 }
 
 .hero-form {
